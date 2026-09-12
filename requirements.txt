@@ -1,0 +1,4 @@
+steel-sdk
+playwright
+openai
+python-dotenv
