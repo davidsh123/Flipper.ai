@@ -1,2 +1,2 @@
 # Flipper.ai
-Flipping sales on Kijiji. 
+Web agent for flipping sales on Kijiji. 
